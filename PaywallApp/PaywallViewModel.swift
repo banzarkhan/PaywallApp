@@ -16,7 +16,7 @@ final class PaywallViewModel: ObservableObject {
     }
     
     func makePurchase() {
-        print("purchase were made")
+        print("purchase was made")
     }
     
     func handleFooterButtonTap(for button: FooterButton) {
